@@ -36,10 +36,10 @@ body {
 	-o-transition:all .5s ease .5s;
 }
 
-#page.displayed {
+/*#page.displayed {
 	opacity: 1;
 	margin: 0;
-}
+}*/
 
 hr {
     height: 1px;
