@@ -152,7 +152,7 @@ header .instagram-header-icon {
 	overflow: hidden;
 }
 
-.hero-image-menu {
+.hero-image-journal {
     width: 100%;
     height: 350px;
     background-color: #f3f3f3;
@@ -162,7 +162,7 @@ header .instagram-header-icon {
     overflow: hidden;
 }
 
-.hero-image-gallery {
+.hero-image-portfolio {
     width: 100%;
     height: 350px;
     background-color: #f3f3f3;
@@ -198,9 +198,9 @@ header .instagram-header-icon {
 -------------------------------------------------------------- */
 
 th, td {
-    padding: 4px 20px 0 25px;
+    padding: 5px 20px 5px 20px;
     height: 45px;
-    text-align: left;
+    text-align: justify;
 }
 
 table {
@@ -223,8 +223,8 @@ th {
 }
 
 td:nth-of-type(even) {
-    text-align: right;
-    padding: 0 25px 0 20px;
+    text-align: justify;
+    padding: 0 20px 0 20px;
     min-width: 90px;
 }
 /* --------------------------------------------------------------
@@ -492,6 +492,7 @@ header {
 .main {
 	padding: 0 30px;
 	width: auto;
+	align: justify;
 }
 
 /* --------------------------------------------------------------
